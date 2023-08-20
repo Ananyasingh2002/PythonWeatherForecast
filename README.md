@@ -23,7 +23,7 @@ This is a simple weather application that uses the OpenWeatherMap API to fetch w
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+https://github.com/Ananyasingh2002/PythonWeatherForecast.git
 cd PythonWeatherForecast
 ```
 
