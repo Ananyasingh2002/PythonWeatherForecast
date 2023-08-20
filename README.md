@@ -1,6 +1,6 @@
 # Weather App using OpenWeatherMap API and Tkinter
 
-![Weather app](iImages/Screenshot-1.jpg)
+![Weather app](Images/Screenshot-1.jpg)
 
 This is a simple weather application that uses the OpenWeatherMap API to fetch weather data for a given city and displays it using a Tkinter GUI.
 
